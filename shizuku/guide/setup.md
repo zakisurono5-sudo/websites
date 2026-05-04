@@ -1,4 +1,4 @@
-# User manual
+# User manuaadb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.shl
 
 [[toc]]
 
